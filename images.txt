@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python
+flannel-cni-plugin:v1.7.1-flannel1
+flannel:v0.27.3
